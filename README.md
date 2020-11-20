@@ -1,7 +1,9 @@
 
 # Projet Final Cloud/Docker/Kubernetes
 
-Rendu concluant la masterclass cloud computing. Ci-dessous les consignes du devoir :
+
+Rendu pour la masterclass cloud computing. Ci-dessous les consignes du devoir :
+
 
 > You have to clone this repo:
 > https://github.com/lholmquist/react-web-app (please read the README,
