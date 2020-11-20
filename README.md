@@ -2,7 +2,9 @@
 # Projet Final Cloud/Docker/Kubernetes
 
 
-Rendu pour la masterclass cloud computing. Ci-dessous les consignes du devoir :
+Rendu pour la masterclass cloud computing. 
+
+Les consignes du devoir :
 
 
 > You have to clone this repo:
