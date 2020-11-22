@@ -4,7 +4,7 @@
 
 Rendu pour la masterclass cloud computing. 
 
-Les consignes du devoir :
+Consignes du devoir :
 
 
 > You have to clone this repo:
